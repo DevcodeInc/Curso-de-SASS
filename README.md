@@ -9,15 +9,7 @@ Software | Versión
 
 #### Crear Proyecto
 ```sh
-$ mkdir rest-devcode
-$ cd xxx-devcode
-$ git clone 'https://github.com/DevcodeInc/xxxxx.git'
-```
-
-
-#### Iniciar
-```sh
-$ (pemopi) python manage.py runserver --settings=pemopi.settings.local
+$ git clone 'https://github.com/DevcodeInc/Curso-de-SASS.git'
 ```
 
 
