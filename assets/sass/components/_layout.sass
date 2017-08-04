@@ -1,0 +1,35 @@
+body
+  background: #eee
+.master
+  max-width: 960px
+  width: calc(100% - 10px)
+  height: 800px
+  margin: 15px auto
+  display: flex
+  background: #FFF
+  border: 1px solid #ddd
+  .contactos
+    min-width: 300px
+    width: 300px
+    @media(max-width: 768px)
+      display: none
+  .chat
+    width: 100%
+    display: flex
+    flex-direction: column
+    border-left: 1px solid #ddd
+    @media(max-width: 768px)
+      border-left: none
+    .contacto_2
+      width: 100%
+      height: 62px
+      min-height: 62px
+      border-bottom: 1px solid #ddd
+    .chat_2
+      width: 100%
+      height: 100%
+    .campo_enviar
+      width: 100%
+      height: 62px
+      min-height: 62px
+      border-top: 1px solid #ddd
