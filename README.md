@@ -4,6 +4,9 @@
 Software | Versión 
 ------------ | ------------- 
 [nodejs][1] | v4.3
+[Ruby/32-64Bits][2] | v2.3.3
+[Prepros][3] | v6
+[Atom][4] | v1.18.0
 
 #### Crear Proyecto
 ```sh
